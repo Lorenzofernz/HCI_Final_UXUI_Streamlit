@@ -1,4 +1,4 @@
-# HCI_Final_UXUI_Streamlit (OSRS HighScores Web app API)
+# Streamlit (OSRS HighScores Web app API)
 Web application using Streamlit framework that focuses on usability goals, HCI principles. Streamlit features and API requests to fetch and display data such as charts, plots, maps, and tables. Web app includes interactive widgets, such as buttons, select boxes, radio buttons, text input, color input, manipulate data requested through an API
 
 OSRS HighScores Web App app. Introduction Welcome to the OSRS HighScores Web App, developed by Lorenzo Fernandez. This web application is designed to provide users with personalized and comparative highscores data for Old School RuneScape (OSRS) players. The app allows users to explore individual player stats through bar charts and compare two players' highscores using interactive line graphs.
